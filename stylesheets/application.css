@@ -448,7 +448,7 @@ div.wiki pre {
   word-wrap: break-word; /* IE 5.5+ */
 }
 
-p {
+div.wiki p {
   margin-top: 4px;
   margin-bottom: 4px;
 }
