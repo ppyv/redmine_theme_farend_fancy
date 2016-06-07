@@ -448,8 +448,9 @@ div.wiki pre {
   word-wrap: break-word; /* IE 5.5+ */
 }
 
-div.wiki p {
-  line-height: 165%;
+p {
+  margin-top: 4px;
+  margin-bottom: 4px;
 }
 
 div.wiki li {
